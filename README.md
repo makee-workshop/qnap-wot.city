@@ -1,5 +1,5 @@
 # qnap-wot.city
-## Repo includ
+## Repo include
 
 * 7688 Duo Arduino Code
 * 7688 Python to WoT code
